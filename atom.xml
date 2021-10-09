@@ -1,0 +1,390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Xym&#39;s blogs</title>
+  <icon>http://xyming108.github.io/icon.png</icon>
+  <subtitle>O(∩_∩)O哈哈~ welcome to my blog</subtitle>
+  <link href="http://xyming108.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://xyming108.github.io/"/>
+  <updated>2021-10-07T15:40:40.293Z</updated>
+  <id>http://xyming108.github.io/</id>
+  
+  <author>
+    <name>Xym</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>读温铁军《八次危机》的笔记总结</title>
+    <link href="http://xyming108.github.io/2021/10/07/%E5%85%AB%E6%AC%A1%E5%8D%B1%E6%9C%BA/"/>
+    <id>http://xyming108.github.io/2021/10/07/%E5%85%AB%E6%AC%A1%E5%8D%B1%E6%9C%BA/</id>
+    <published>2021-10-07T15:19:50.000Z</published>
+    <updated>2021-10-07T15:40:40.293Z</updated>
+    
+    
+    <summary type="html">中国自1949年建国以来到2009年之间共发生了8次比较显著的危机，温铁军老师通过这本书详细的介绍了每次危机的个中缘由，其中涉及到政治、历史、经济、军事、地缘战略等等多种因素，这有助于我们以史为鉴，更好的应对未来可能会遭遇到的危机。</summary>
+    
+    
+    
+    <category term="阅读" scheme="http://xyming108.github.io/categories/%E9%98%85%E8%AF%BB/"/>
+    
+    
+    <category term="阅读" scheme="http://xyming108.github.io/tags/%E9%98%85%E8%AF%BB/"/>
+    
+    <category term="温铁军" scheme="http://xyming108.github.io/tags/%E6%B8%A9%E9%93%81%E5%86%9B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL实战45讲学习笔记2</title>
+    <link href="http://xyming108.github.io/2021/09/14/MySQL45-2/"/>
+    <id>http://xyming108.github.io/2021/09/14/MySQL45-2/</id>
+    <published>2021-09-14T07:41:16.000Z</published>
+    <updated>2021-09-14T07:53:28.367Z</updated>
+    
+    
+    <summary type="html">常见的索引数据结构，主键索引和非主键索引的区别，覆盖索引，最左前缀原则，change buffer等等</summary>
+    
+    
+    
+    <category term="数据库" scheme="http://xyming108.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="数据库" scheme="http://xyming108.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    <category term="MySQL" scheme="http://xyming108.github.io/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL实战45讲学习笔记1</title>
+    <link href="http://xyming108.github.io/2021/09/12/MySQL45-1/"/>
+    <id>http://xyming108.github.io/2021/09/12/MySQL45-1/</id>
+    <published>2021-09-12T07:00:28.000Z</published>
+    <updated>2021-09-16T09:59:30.744Z</updated>
+    
+    
+    <summary type="html">讲到一条select语句或update语句底层实现原理，执行逻辑；又讲到事务、事务并发，事务的隔离级别等</summary>
+    
+    
+    
+    <category term="数据库" scheme="http://xyming108.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="数据库" scheme="http://xyming108.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    <category term="MySQL" scheme="http://xyming108.github.io/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>股票基础知识</title>
+    <link href="http://xyming108.github.io/2021/07/10/%E8%82%A1%E7%A5%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/"/>
+    <id>http://xyming108.github.io/2021/07/10/%E8%82%A1%E7%A5%A8%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86/</id>
+    <published>2021-07-10T11:27:48.000Z</published>
+    <updated>2021-08-15T08:53:22.461Z</updated>
+    
+    
+    <summary type="html">投资股票有风险，了解股票基础知识至关重要</summary>
+    
+    
+    
+    <category term="理财" scheme="http://xyming108.github.io/categories/%E7%90%86%E8%B4%A2/"/>
+    
+    
+    <category term="理财" scheme="http://xyming108.github.io/tags/%E7%90%86%E8%B4%A2/"/>
+    
+    <category term="股票" scheme="http://xyming108.github.io/tags/%E8%82%A1%E7%A5%A8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Java面试笔记</title>
+    <link href="http://xyming108.github.io/2021/03/18/Java%E9%9D%A2%E8%AF%95%E7%AC%94%E8%AE%B0/"/>
+    <id>http://xyming108.github.io/2021/03/18/Java%E9%9D%A2%E8%AF%95%E7%AC%94%E8%AE%B0/</id>
+    <published>2021-03-18T02:06:55.000Z</published>
+    <updated>2021-09-12T07:40:39.702Z</updated>
+    
+    
+    <summary type="html">Java面试笔记整理</summary>
+    
+    
+    
+    <category term="Java" scheme="http://xyming108.github.io/categories/Java/"/>
+    
+    
+    <category term="Java" scheme="http://xyming108.github.io/tags/Java/"/>
+    
+    <category term="面试" scheme="http://xyming108.github.io/tags/%E9%9D%A2%E8%AF%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL学习笔记Day5</title>
+    <link href="http://xyming108.github.io/2021/03/18/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0Day5/"/>
+    <id>http://xyming108.github.io/2021/03/18/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0Day5/</id>
+    <published>2021-03-18T01:19:23.000Z</published>
+    <updated>2021-09-16T09:58:44.380Z</updated>
+    
+    
+    <summary type="html">MySQL数据库的流程控制、函数</summary>
+    
+    
+    
+    <category term="数据库" scheme="http://xyming108.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="数据库" scheme="http://xyming108.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    <category term="MySQL" scheme="http://xyming108.github.io/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL学习笔记Day4</title>
+    <link href="http://xyming108.github.io/2021/03/18/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0Day4/"/>
+    <id>http://xyming108.github.io/2021/03/18/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0Day4/</id>
+    <published>2021-03-18T01:18:12.000Z</published>
+    <updated>2021-09-16T09:58:37.909Z</updated>
+    
+    
+    <summary type="html">MySQL数据库的DML语言、DDL语言、TCL语言、视图</summary>
+    
+    
+    
+    <category term="数据库" scheme="http://xyming108.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="数据库" scheme="http://xyming108.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    <category term="MySQL" scheme="http://xyming108.github.io/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL学习笔记Day3</title>
+    <link href="http://xyming108.github.io/2021/03/18/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0Day3/"/>
+    <id>http://xyming108.github.io/2021/03/18/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0Day3/</id>
+    <published>2021-03-18T01:16:24.000Z</published>
+    <updated>2021-09-16T09:58:28.484Z</updated>
+    
+    
+    <summary type="html">MySQL数据库多表连接查询、子查询、分页查询、联合查询</summary>
+    
+    
+    
+    <category term="数据库" scheme="http://xyming108.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="数据库" scheme="http://xyming108.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    <category term="MySQL" scheme="http://xyming108.github.io/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL学习笔记Day2</title>
+    <link href="http://xyming108.github.io/2021/03/18/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0Day2/"/>
+    <id>http://xyming108.github.io/2021/03/18/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0Day2/</id>
+    <published>2021-03-18T01:13:47.000Z</published>
+    <updated>2021-09-16T09:58:13.200Z</updated>
+    
+    
+    <summary type="html">MySQL数据库常用函数，排序查询</summary>
+    
+    
+    
+    <category term="数据库" scheme="http://xyming108.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="数据库" scheme="http://xyming108.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    <category term="MySQL" scheme="http://xyming108.github.io/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MySQL学习笔记Day1</title>
+    <link href="http://xyming108.github.io/2021/03/18/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0Day1/"/>
+    <id>http://xyming108.github.io/2021/03/18/MySQL%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0Day1/</id>
+    <published>2021-03-18T01:10:47.000Z</published>
+    <updated>2021-09-16T10:17:47.997Z</updated>
+    
+    
+    <summary type="html">MySQL数据库的相关概念，MySQL简单使用，常见命令，基础查询和条件查询语句等</summary>
+    
+    
+    
+    <category term="数据库" scheme="http://xyming108.github.io/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    
+    <category term="数据库" scheme="http://xyming108.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    
+    <category term="MySQL" scheme="http://xyming108.github.io/tags/MySQL/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构_二叉树的应用_练习题</title>
+    <link href="http://xyming108.github.io/2020/03/04/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%94%E7%94%A8-%E7%BB%83%E4%B9%A0%E9%A2%98/"/>
+    <id>http://xyming108.github.io/2020/03/04/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%BA%94%E7%94%A8-%E7%BB%83%E4%B9%A0%E9%A2%98/</id>
+    <published>2020-03-04T12:05:23.000Z</published>
+    <updated>2021-09-12T07:22:59.407Z</updated>
+    
+    
+    <summary type="html">二叉树的基本应用</summary>
+    
+    
+    
+    <category term="数据结构" scheme="http://xyming108.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数据结构" scheme="http://xyming108.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="C++" scheme="http://xyming108.github.io/tags/C/"/>
+    
+    <category term="C" scheme="http://xyming108.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构_线索二叉树_练习题</title>
+    <link href="http://xyming108.github.io/2020/03/03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86-%E7%BA%BF%E7%B4%A2%E4%BA%8C%E5%8F%89%E6%A0%91-%E7%BB%83%E4%B9%A0%E9%A2%98/"/>
+    <id>http://xyming108.github.io/2020/03/03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E4%BA%8C%E5%8F%89%E6%A0%91%E9%81%8D%E5%8E%86-%E7%BA%BF%E7%B4%A2%E4%BA%8C%E5%8F%89%E6%A0%91-%E7%BB%83%E4%B9%A0%E9%A2%98/</id>
+    <published>2020-03-03T02:45:48.000Z</published>
+    <updated>2021-09-12T07:24:29.425Z</updated>
+    
+    
+    <summary type="html">线索二叉树的习题</summary>
+    
+    
+    
+    <category term="数据结构" scheme="http://xyming108.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数据结构" scheme="http://xyming108.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="C++" scheme="http://xyming108.github.io/tags/C/"/>
+    
+    <category term="C" scheme="http://xyming108.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构_二叉树的遍历/线索二叉树</title>
+    <link href="http://xyming108.github.io/2020/03/03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86-%E7%BA%BF%E7%B4%A2%E4%BA%8C%E5%8F%89%E6%A0%91/"/>
+    <id>http://xyming108.github.io/2020/03/03/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E9%81%8D%E5%8E%86-%E7%BA%BF%E7%B4%A2%E4%BA%8C%E5%8F%89%E6%A0%91/</id>
+    <published>2020-03-03T02:33:50.000Z</published>
+    <updated>2021-09-12T07:24:03.752Z</updated>
+    
+    
+    <summary type="html">线索二叉树的基本操作和实现</summary>
+    
+    
+    
+    <category term="数据结构" scheme="http://xyming108.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数据结构" scheme="http://xyming108.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="C++" scheme="http://xyming108.github.io/tags/C/"/>
+    
+    <category term="C" scheme="http://xyming108.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构_队列</title>
+    <link href="http://xyming108.github.io/2020/03/02/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E9%98%9F%E5%88%97/"/>
+    <id>http://xyming108.github.io/2020/03/02/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E9%98%9F%E5%88%97/</id>
+    <published>2020-03-02T14:41:10.000Z</published>
+    <updated>2021-09-12T07:24:43.851Z</updated>
+    
+    
+    <summary type="html">队列的基本操作</summary>
+    
+    
+    
+    <category term="数据结构" scheme="http://xyming108.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数据结构" scheme="http://xyming108.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="C++" scheme="http://xyming108.github.io/tags/C/"/>
+    
+    <category term="C" scheme="http://xyming108.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构_栈</title>
+    <link href="http://xyming108.github.io/2020/03/02/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E6%A0%88/"/>
+    <id>http://xyming108.github.io/2020/03/02/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E6%A0%88/</id>
+    <published>2020-03-02T14:40:54.000Z</published>
+    <updated>2021-09-12T07:20:54.854Z</updated>
+    
+    
+    <summary type="html">栈的基本操作和实现</summary>
+    
+    
+    
+    <category term="数据结构" scheme="http://xyming108.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数据结构" scheme="http://xyming108.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="C++" scheme="http://xyming108.github.io/tags/C/"/>
+    
+    <category term="C" scheme="http://xyming108.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构_链式表</title>
+    <link href="http://xyming108.github.io/2020/02/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E9%93%BE%E5%BC%8F%E8%A1%A8/"/>
+    <id>http://xyming108.github.io/2020/02/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E9%93%BE%E5%BC%8F%E8%A1%A8/</id>
+    <published>2020-02-08T14:37:08.000Z</published>
+    <updated>2021-09-12T07:21:28.096Z</updated>
+    
+    
+    <summary type="html">链式表的基本操作和实现</summary>
+    
+    
+    
+    <category term="数据结构" scheme="http://xyming108.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数据结构" scheme="http://xyming108.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="C++" scheme="http://xyming108.github.io/tags/C/"/>
+    
+    <category term="C" scheme="http://xyming108.github.io/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>数据结构_顺序表</title>
+    <link href="http://xyming108.github.io/2020/02/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E9%A1%BA%E5%BA%8F%E8%A1%A8/"/>
+    <id>http://xyming108.github.io/2020/02/08/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84-%E9%A1%BA%E5%BA%8F%E8%A1%A8/</id>
+    <published>2020-02-08T14:37:08.000Z</published>
+    <updated>2021-09-12T07:21:14.467Z</updated>
+    
+    
+    <summary type="html">顺序表的基本操作和实现</summary>
+    
+    
+    
+    <category term="数据结构" scheme="http://xyming108.github.io/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    
+    <category term="数据结构" scheme="http://xyming108.github.io/tags/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/"/>
+    
+    <category term="C++" scheme="http://xyming108.github.io/tags/C/"/>
+    
+    <category term="C" scheme="http://xyming108.github.io/tags/C/"/>
+    
+  </entry>
+  
+</feed>
